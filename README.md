@@ -1,11 +1,8 @@
-Winston Yi
-wyi10
-Spring 2021
-#Assignment 5: Hamming Codes
+# Hamming Codes
 
 -----------------------
 DESCRIPTION
-In this assignment I have create two programs that will encode and decode a series of inputs as well as provide statistics on the result.
+Two programs, encode and decode, will encode and decode a series of inputs as well as provide statistics on the result.
 
 -----------------------
 FILES
@@ -49,11 +46,6 @@ This file contains code for functions that encode and decode inputs.
 Makefile
 
 This file contains instructions needed to compile the code
-
--
-DESIGN.pdf
-
-This file contains the process of my thinking and explanations of my designs.
 
 -
 README.md
